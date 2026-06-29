@@ -16,4 +16,4 @@ To propose a change, report an ambiguity, or submit a public comment, please ope
 
 # 7. How to Cite This Standard
 
-> Prewitt, A. D. (2026). *The HEVIDS Standard for Enterprise AI Governance*, v1.0. DRADPA LLC. *[DOI to be inserted upon Zenodo registration]*.
+> Prewitt, A. D. (2026). *The HEVIDS Standard for Enterprise AI Governance*, v1.0. DRADPA LLC. [![DOI](https://zenodo.org/badge/1284286135.svg)](https://doi.org/10.5281/zenodo.21045472).
