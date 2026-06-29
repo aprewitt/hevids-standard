@@ -19,8 +19,8 @@ slug: /
 | **Status** | Public draft |
 | **Steward** | Dr. Anderson D. Prewitt, DRADPA LLC |
 | **License (framework text)** | Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0) |
-| **Trademark notice** | HEVIDS™ is a trademark of DRADPA LLC (U.S. Serial No. 99376104, published for opposition). "AEGIS" and "Sigvis Matrix" are also trademarks of DRADPA LLC. The marks are protected; the standard's text is open. |
-| **DOI** | *[to be minted via Zenodo upon publication]* |
+| **Trademark notice** | HEVIDS™ is a trademark (U.S. Serial No. 99376104, published for opposition). "AEGIS" and "Sigvis Matrix" are also trademarks. The marks are protected; the standard's text is open. |
+| **DOI** | https://doi.org/10.5281/zenodo.21045472 |
 | **Canonical reference text** | Prewitt, A. D. (2026). *Enhancing Business Value Through Artificial Intelligence.* ISBN 979-8-9995924-8-4 |
 | **Companion formal paper** | Prewitt, A. D. (2026). *Institutionalizing Trust: HEVIDS and Reverse Game Theory as a Sociotechnical Intervention for Enterprise AI Alignment.* SSRN 6915218 |
 
