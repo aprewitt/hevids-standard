@@ -1,0 +1,74 @@
+:root {
+  --ifm-color-primary: #15233a;
+  --ifm-color-primary-dark: #111b2d;
+  --ifm-color-primary-darker: #0d1524;
+  --ifm-color-primary-darkest: #08101b;
+  --ifm-color-primary-light: #1d2f4e;
+  --ifm-color-primary-lighter: #274066;
+  --ifm-color-primary-lightest: #35557f;
+  --ifm-background-color: #f8fafc;
+  --ifm-background-surface-color: #ffffff;
+  --ifm-color-content: #172231;
+  --ifm-color-content-secondary: #4f6072;
+  --ifm-color-emphasis-300: #bfc9d5;
+  --ifm-color-emphasis-700: #3f5063;
+  --ifm-heading-color: #0b1626;
+  --ifm-navbar-background-color: rgba(246, 248, 251, 0.96);
+  --ifm-footer-background-color: #0c1727;
+  --ifm-footer-color: #e1e8f1;
+  --ifm-footer-title-color: #ffffff;
+  --ifm-link-color: #15233a;
+  --ifm-link-hover-color: #09111e;
+  --ifm-global-shadow-lw: 0 14px 34px rgba(15, 25, 42, 0.08);
+  --ifm-toc-border-color: #c9d3df;
+}
+
+html[data-theme='dark'] {
+  --ifm-color-primary: #9db2d3;
+  --ifm-color-primary-dark: #8ba2c5;
+  --ifm-color-primary-darker: #7e95ba;
+  --ifm-color-primary-darkest: #6d84a9;
+  --ifm-color-primary-light: #aebfdb;
+  --ifm-color-primary-lighter: #becce3;
+  --ifm-color-primary-lightest: #ced8ea;
+  --ifm-background-color: #09111c;
+  --ifm-background-surface-color: #101a2a;
+  --ifm-color-content: #e2e9f2;
+  --ifm-color-content-secondary: #b1bed0;
+  --ifm-color-emphasis-300: #344258;
+  --ifm-color-emphasis-700: #c4cfdd;
+  --ifm-heading-color: #f7fafc;
+  --ifm-navbar-background-color: rgba(9, 17, 28, 0.96);
+  --ifm-footer-background-color: #060b13;
+  --ifm-footer-color: #e2e9f2;
+  --ifm-footer-title-color: #ffffff;
+  --ifm-link-color: #d0ddf0;
+  --ifm-link-hover-color: #f2f6fb;
+  --ifm-global-shadow-lw: 0 18px 40px rgba(0, 0, 0, 0.3);
+  --ifm-toc-border-color: #2d3b50;
+}
+
+body {
+  background: var(--ifm-background-color);
+  color: var(--ifm-color-content);
+}
+
+a {
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.15em;
+}
+
+.hero,
+.hero--primary,
+.heroBanner {
+  background: transparent;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--ifm-toc-border-color);
+  box-shadow: none;
+}
+
+.footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.12);
+}
